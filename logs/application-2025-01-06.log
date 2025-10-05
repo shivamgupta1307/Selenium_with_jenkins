@@ -1,0 +1,9 @@
+2025-01-06 13:42:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\testng.xml
+
+2025-01-06 13:42:11 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-01-06 13:42:11 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-01-06 13:42:12 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-01-06 13:42:12 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-01-06 13:42:14 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-01-06 13:42:14 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****

@@ -1,0 +1,95 @@
+2025-02-07 17:39:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\testng.xml
+
+2025-02-07 17:39:56 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 17:39:57 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 17:39:58 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 17:39:58 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 17:39:59 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 17:40:01 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 17:45:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\testng.xml
+
+2025-02-07 17:45:34 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 17:45:34 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 17:45:35 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 17:45:35 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 17:45:37 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 17:45:37 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:36:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\master.xml
+
+2025-02-07 18:36:47 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:36:47 [main] ERROR testCase.TC001AccountRegistrationTest - test failed..
+2025-02-07 18:37:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\testng.xml
+
+2025-02-07 18:38:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\master.xml
+
+2025-02-07 18:39:10 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:39:11 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:39:12 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:39:12 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:39:14 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:39:15 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:40:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\master.xml
+
+2025-02-07 18:41:24 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:41:25 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:41:29 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:41:29 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:41:32 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:41:32 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:42:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\master.xml
+
+2025-02-07 18:42:43 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:42:44 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:42:44 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:42:44 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:42:48 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:42:48 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:52:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\Chrossbrowsertesting.xml
+
+2025-02-07 18:52:37 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:52:37 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:52:38 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:52:38 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:52:41 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:52:41 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:52:49 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:52:49 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:52:50 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:52:50 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:52:51 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:52:51 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 18:53:03 [main] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 18:53:04 [main] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 18:53:04 [main] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 18:53:04 [main] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 18:53:07 [main] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 18:53:07 [main] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 19:35:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shivam gupta\eclipse-workspace\OpenCard_Function\Chrossbrowsertesting.xml
+
+2025-02-07 19:35:46 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 19:35:46 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 19:35:47 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 19:35:48 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 19:35:48 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 19:35:48 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 19:35:50 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 19:35:50 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 19:35:52 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 19:35:52 [TestNG-tests-2] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 19:35:55 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 19:35:55 [TestNG-tests-1] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
+2025-02-07 19:36:09 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+2025-02-07 19:36:11 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - Click on myAccount Link
+2025-02-07 19:36:12 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - Click on Register Link
+2025-02-07 19:36:12 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - Providing customer details...
+2025-02-07 19:36:15 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - Validating expected message.. 
+2025-02-07 19:36:15 [TestNG-tests-3] INFO  testCase.TC001AccountRegistrationTest - **** Finished  TC001_AccountRegistrationTest ****
